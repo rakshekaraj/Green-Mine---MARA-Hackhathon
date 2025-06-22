@@ -1,0 +1,6 @@
+pandas
+numpy
+streamlit
+matplotlib
+gym
+stable-baselines3[extra]
